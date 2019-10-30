@@ -13,7 +13,9 @@ The repo collects best practise how data science team(DS) collaborates with data
   * [Dataflow](Dataflow)
 
 ##Comparision
+
 ###Objectives
+
 ###Strength-Weakness
 
 ##Workflow

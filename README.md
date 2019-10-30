@@ -15,6 +15,9 @@ The repo collects best practise how data science team(DS) collaborates with data
 ## Comparision
 
 ### Objectives
+| Team| Objectives |
+| Data Science | b |
+| Data Engineering | a|
 
 ### Strength-Weakness
 

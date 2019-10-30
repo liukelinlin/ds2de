@@ -5,7 +5,7 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 
 ## Table of contents
 
-* [Data Scientist vs Data Engineer](#Comparison)
+* [Data Science vs Data Engineering](#Comparison)
   * [Objectives](#Objectives)
   * [Strength & Weakness](#Strength-Weakness)
 * [Workflow](#Workflow)

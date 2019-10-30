@@ -6,9 +6,14 @@ The repo collects best practise how data science team(DS) collaborates with data
 ## Table of contents
 
 * [Comparision](#Comparison)
+  * [Objectives](#Objectives)
+  * [Strength-Weakness](#Strength-Weakness)
 * [Workflow](#Workflow)
   * [Workflow](Workflow)
   * [Dataflow](Dataflow)
 
 ##Comparision
-bbb
+###Objectives
+###Strength-Weakness
+
+##Workflow

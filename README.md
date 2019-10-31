@@ -12,14 +12,14 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
   * [Workflow](Workflow)
   * [Dataflow](Dataflow)
 
-## Comparision
+## [Data Science vs Data Engineering]Comparision
 
 ### Objectives
 
 | Team| Key Objectives |
 |----|----|
 | Data Science | Extract valuable information for use in strategic decision making, product development, trend analysis, and forecasting |
-| Data Engineering | Build data platform to support DS research activities、deploy models or algorithms in production |
+| Data Engineering | Build data platform to manage data、support DS research、deploy models or algorithms in production |
 
 ### Strength-Weakness
 

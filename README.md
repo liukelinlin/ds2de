@@ -30,9 +30,17 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 | Feature extraction| Data modeling|
 | Model deployment| Story telling & reporting|
 
-## Workflow (simple)
+## Workflow
 [Data acquisition] -> [ETL] -> [Feature extraction] -> [Data Mining/Modeling] -> [Model deployment]
 
 ## Platforms
+| Platform | Description |
+|----|----|
+|AWS||
+|Google||
+|IBM||
+|Databrick||
 
 ## Tools
+| Tool | Language | Description |
+|----|----|----|

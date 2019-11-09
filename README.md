@@ -7,7 +7,7 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 
 * [DataScience-DataEngineering](#DataScience-DataEngineering)
   * [Objectives](#Objectives)
-  * [Strength & Weakness](#Strength-Weakness)
+  * [Responsibilities](#Responsibilities)
 * [Workflow](#Workflow)
   * [Workflow](Workflow)
   * [Dataflow](Dataflow)
@@ -21,6 +21,8 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 | Data Science | Extract valuable information for use in strategic decision making, product development, trend analysis, and forecasting |
 | Data Engineering | Build data platform to manage data、facilitate data scientists' research、deploy models or algorithms in production |
 
-### Strength-Weakness
-
+### Responsibilities
+| Data Engineering | Data Science |
+|----|----|
+| * Data acquisition * 222 | * aa |
 ## Workflow

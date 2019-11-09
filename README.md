@@ -9,7 +9,9 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
   * [Objectives](#Objectives)
   * [Responsibilities](#Responsibilities)
 * [Workflow](#Workflow)
-  * [Workflow](Workflow)
+  * [Workflow](#Workflow)
+* [Platforms](#Platforms)
+* [Tools](#Tools)
 
 ## DataScience-DataEngineering
 
@@ -27,5 +29,10 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 | Data ETL architecture development and maintainenance | Data mining |
 | Feature extraction| Data modeling|
 | Model deployment| Story telling & reporting|
-## Workflow
-[Data acquisition] -> [ETL] -> [Data mining] -> [Feature extraction] -> [Data Modeling] -> [Model deployment]
+
+## Workflow (simple)
+[Data acquisition] -> [ETL] -> [Feature extraction] -> [Data Mining/Modeling] -> [Model deployment]
+
+## Platforms
+
+## Tools

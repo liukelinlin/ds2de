@@ -24,5 +24,8 @@ The repo collects best practise how _data science team(DS)_ collaborates with _d
 ### Responsibilities
 | Data Engineering | Data Science |
 |----|----|
-| * Data acquisition * 222 | * aa |
+| Data acquisition | Data analysis |
+| Data architecture development and maintainenance | Data mining |
+| Feature extraction| Data modeling|
+| Model deployment| Story telling and reporting|
 ## Workflow
